@@ -1,1 +1,1 @@
-А вот и изменения!
+WOW! GitHub doesn't understand Russian! :-(
